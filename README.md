@@ -2,8 +2,7 @@
 
 This Power BI project provides a risk analysis dashboard designed to monitor, identify, and analyze potentially fraudulent credit card transactions. The goal is to equip risk management and fraud analysis teams with a powerful tool to understand fraud patterns and mitigate financial losses.
 
-🔗 Live Dashboard
-[Insert Link to your published Power BI Report Here]
+🔗 Live Dashboard : https://github.com/SrijanMallick/credit-card-fraud-risk-analysis/blob/main/Credit%20Card%20Fraud%20Risk%20Analysis%20-%20Power%20BI.pbix
 
 🎯 Business Objective
 1. Financial institutions face significant losses due to credit card fraud. This dashboard addresses the critical business need to proactively identify and analyze fraudulent activities. It is designed to help stakeholders answer key questions such as:
@@ -36,8 +35,6 @@ The analysis is based on a transactional dataset provided in the Credit Card Fra
 5. Hover over data points to view detailed tooltips with precise figures and information.
 
 📧 Contact
-Name: [Your Name]
-
-LinkedIn: [Your LinkedIn Profile URL]
-
-Email: [Your Email Address]
+Name: Srijan Mallick
+LinkedIn: linkedin.com/in/srijanmallick
+Email: srijanmallicknita@gmail.com / officialsrijanmallick@gmail.com
